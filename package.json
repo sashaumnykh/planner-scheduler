@@ -32,7 +32,8 @@
     "@apollo/client": "^4.0.6",
     "graphql": "^16.11.0",
     "rxjs": "~7.8.0",
-    "tslib": "^2.3.0"
+    "tslib": "^2.3.0",
+    "uuid": "^13.0.0"
   },
   "devDependencies": {
     "@angular/build": "^20.3.3",
